@@ -1,4 +1,4 @@
-# DubHacks
+# BookBounce
 
 A website that offers students a resource, where they have a chance to be able to make use of their old books by either selling them, loaning them, or donating them to other students to benefit.  
 
@@ -26,7 +26,6 @@ We are proud of creating a chat room where the user can talk to the buyer and ne
 
 We learned how to use python as our back-end programming language and how to connect it to a database so that the messages can be stored and displayed once again.  Python is able to communicate between APIs, databases, and the frontend so it is very useful. We learned how to implement bootstrap for designing our website. Through our development of BookBounce, we have learned of different ways we could improve our website for the future. For example, we could implement SocketIO which allows the chatting to be more instantaneous.  
  
-
 ## What's next for BookBounce 
 
 In the future, we would like to implement SocketIO to improve the chatting. We also want create a way for the user to add the books they want to a wishlist. We would also like to add a filter at the top of the page where the different posts for books are so the user can filter through and find the book they need more efficiently. We would also like to create an option where people can set a proflile picture and they can also reset their password.  
